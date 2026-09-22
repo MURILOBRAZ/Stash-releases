@@ -2,7 +2,7 @@
 
 Instaladores do **Stash**: capture ideias em segundos, deixe o Stash organizar e ele te lembra na hora certa.
 
-**Site:** https://stash-app.vercel.app
+**Site:** https://stash-ideias.vercel.app
 
 | Sistema | Arquivo |
 |---|---|
